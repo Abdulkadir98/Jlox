@@ -23,6 +23,7 @@ public class GernerateAST {
                 "Literal  : Object value",
                 "Logical  : Expr left, Token operator, Expr right",
                 "Set      : Expr object, Token name, Expr value",
+                "Super    : Token keyword, Token method",
                 "This     : Token keyword",
                 "Variable : Token name",
                 "Unary    : Token operator, Expr right"
